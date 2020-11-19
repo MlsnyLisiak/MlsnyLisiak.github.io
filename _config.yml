@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+title: Helm Hub
+description: A testing Helm Hub
+theme: jekyll-theme-minimal
+url: "https://MlsnyLisiak.github.io/helm-hub/"
+repo_name: lisiakcloud
+exclude:
+- Gemfile
+- Gemfile.lock
+- .gitignore
